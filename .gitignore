@@ -1,0 +1,6 @@
+# Build outputs
+bin
+obj
+
+# Currently nothing except defaults
+.vscode
